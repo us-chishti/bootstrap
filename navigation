@@ -2,7 +2,12 @@
     <div class="container">
       <div class="row">
         <nav class="col navbar navbar-expand-lg navbar-dark">
-          <a class="navbar-brand" href="index.html">branding/logo</a>
+          <a 
+          class="navbar-brand" href="index.html">
+          <img src="C:\Users\students\Desktop\learn bootstrap\images\home\logo.png" width="40" height="30" alt="Site logo"/>
+            
+             
+            </a>
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
@@ -20,4 +25,3 @@
       </div>
     </div>    
   </div>
-
