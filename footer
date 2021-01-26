@@ -1,0 +1,15 @@
+<div class="bg-light">
+  <div class="container">
+    <div class="row">
+      <div class="col">
+        <ul class="list-inline text-center" style="padding-top: 20px;">
+          <li class="list-inline-item"><a href="#">About Us</a></li>
+          <li class="list-inline-item">&middot;</li>
+          <li class="list-inline-item"><a href="#">Privacy</a></li>
+          <li class="list-inline-item">&middot;</li>
+          <li class="list-inline-item"><a href="#">Terms of Use</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>    
+  </div>    
