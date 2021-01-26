@@ -1,0 +1,6 @@
+<div class="alert alert-success alert-dismissible fade show" role="alert">
+    You’ve successfully done the thing you did!
+    <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+        <span aria-hidden="true">×</span>
+    </button>
+</div>
