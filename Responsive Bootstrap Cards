@@ -7,3 +7,7 @@
                 <a href="#" class="btn btn-primary">Go somewhere</a>
             </div>
           </div>
+To make the whole card clicable use this link
+Inside the card body:
+        <a href="..." class="btn btn-primary stretched-link">Go</a>
+ 
