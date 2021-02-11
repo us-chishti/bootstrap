@@ -1,0 +1,13 @@
+      <!-- TWELVE COLUMNS -->
+                <div class="col-1" style="background-color: aqua;">hii 1</div>
+                <div class="col-1" style="background-color: rgb(10, 51, 51);">hii 2</div>
+                <div class="col-1" style="background-color: rgb(190, 190, 190);">hii 3</div>
+                <div class="col-1" style="background-color: rgb(70, 112, 112);">hii 4</div>
+                <div class="col-1" style="background-color: rgb(105, 94, 31);">hii 5</div>
+                <div class="col-1" style="background-color: rgb(97, 97, 97);">hii 6</div>
+                <div class="col-1" style="background-color: rgb(161, 112, 159);">hii 7</div>
+                <div class="col-1" style="background-color: rgb(117, 197, 110);">hii 8</div>
+                <div class="col-1" style="background-color: rgb(104, 133, 85);">hii 9</div>
+                <div class="col-1" style="background-color: rgb(148, 97, 77);">hii 10</div>
+                <div class="col-1" style="background-color: rgb(71, 84, 122);">hii 11</div>
+                <div class="col-1" style="background-color: rgb(155, 125, 190);">hii 12</div>
